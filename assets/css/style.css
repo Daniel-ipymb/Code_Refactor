@@ -86,12 +86,12 @@ p {
     background-color: #2589bd;
 }
 
-.benefits h3{ /* I selected all the h3 elements with the same class attribute (benefits)*/
+.benefit { /* I selected all the h3 elements with the same class attribute (benefits)*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefits img { /* I selected all the img elements with the same class attributes (benefits).*/
+.benefit img { /* I selected all the img elements with the same class attributes (benefits).*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
